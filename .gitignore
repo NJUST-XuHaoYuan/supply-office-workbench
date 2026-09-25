@@ -1,0 +1,15 @@
+node_modules/
+dist/
+artifacts/
+coverage/
+.DS_Store
+*.log
+.env
+.env.*
+.npmrc
+*.pem
+*.key
+*.docx
+*.xlsx
+*.pptx
+*.zip

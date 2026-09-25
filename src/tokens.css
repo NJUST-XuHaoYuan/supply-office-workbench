@@ -1,0 +1,18 @@
+:root {
+  --background: oklch(1 0 0);
+  --surface: oklch(.975 0 0);
+  --ink: oklch(.28 .012 175);
+  --muted: oklch(.47 .012 175);
+  --line: oklch(.91 .006 175);
+  --line-strong: oklch(.8 .01 175);
+  --hover: oklch(.95 .009 175);
+  --selected: oklch(.94 .028 175);
+  --primary: oklch(.44 .081 175);
+  --brand: oklch(.4 .073 175);
+  --blue: oklch(.47 .12 250);
+  --blue-surface: oklch(.965 .017 250);
+  --success: oklch(.43 .095 160);
+  --warning: oklch(.5 .12 70);
+  --warning-surface: oklch(.975 .02 90);
+  --error: oklch(.49 .17 25);
+}
